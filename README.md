@@ -1,0 +1,1 @@
+# grafana-elastic-through-proxy
